@@ -1,0 +1,2 @@
+name = kh
+s_name = rakhimova
